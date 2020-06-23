@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="act_a">Activity A</string>
+    <string name="b1">Show Normal View</string>
+    <string name="b2">Show Big Text Notification</string>
+    <string name="b3">Show Big Picture Notification</string>
+    <string name="b4">Show Inbox Style Notification</string>
+
+</resources>
